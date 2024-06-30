@@ -1,0 +1,6 @@
+tensorflow
+tensorflow-intel
+opencv-python
+numpy
+requests
+mltu
